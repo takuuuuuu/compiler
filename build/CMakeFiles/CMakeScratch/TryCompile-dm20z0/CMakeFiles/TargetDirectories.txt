@@ -1,0 +1,3 @@
+D:/Desktop/bianyi/p4/compiler/build/CMakeFiles/CMakeScratch/TryCompile-dm20z0/CMakeFiles/cmTC_fc23f.dir
+D:/Desktop/bianyi/p4/compiler/build/CMakeFiles/CMakeScratch/TryCompile-dm20z0/CMakeFiles/edit_cache.dir
+D:/Desktop/bianyi/p4/compiler/build/CMakeFiles/CMakeScratch/TryCompile-dm20z0/CMakeFiles/rebuild_cache.dir
